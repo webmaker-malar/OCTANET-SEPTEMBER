@@ -1,0 +1,20 @@
+body{
+    background-image: url(I.jfif);
+    background-size: 3000px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+
+
+img{
+    padding-left: 1100px;
+    padding-bottom: 800px;
+    width: 300px;
+    height: 300px;
+
+}
+tr{
+    color:black;
+}
